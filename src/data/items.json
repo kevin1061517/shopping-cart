@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Goat Mt.",
+    "price": 100,
+    "imgUrl": "/imgs/goat mountain.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Stars",
+    "price": 5.12,
+    "imgUrl": "/imgs/stars.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Sunset",
+    "price": 6.32,
+    "imgUrl": "/imgs/sunset.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Cloud",
+    "price": 6.26,
+    "imgUrl": "/imgs/cloud.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Delta",
+    "price": 1,
+    "imgUrl": "/imgs/delta.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Cowboy",
+    "price": 0.12,
+    "imgUrl": "/imgs/cowboy.jpg"
+  }
+]
